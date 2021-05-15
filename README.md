@@ -1,7 +1,7 @@
 ### Objective
 This repository contains all files needed to do implement a system that can evaluate basic handwritten mathematical expressions from images, involving digits and basic mathematcial operators like addition (+), subraction (-) and multiplication (x).
 
-### machine leanring models used
+### Machine leanring models used
 To create the system, two sets of data and machine learning models were created
 - Version 1 models were trained on 20,000 samples from the MNIST dataset and all the images belonging to mathematical operators from the HaSy dataset. (22k images) 
 Version 2
